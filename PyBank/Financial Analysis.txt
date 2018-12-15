@@ -1,0 +1,8 @@
+              
+[Financial Analysis]
+----------------------
+     Total Months in dataset equals:  86
+     Average Change between months equals:  -2315.12
+     2/1/2012  was the date with the largest increase in profits at $ 1926159 . Profits at this time were $ 1170593
+     9/1/2013  was the date with the largest decrease in profits at $ -2196167 . Profits at this time were $ -1196225
+              
